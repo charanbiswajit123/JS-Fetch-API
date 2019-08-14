@@ -1,2 +1,2 @@
-# JS-Fetch-API
-JS-Fetch-API
+# shopping-cart
+shopping-cart
